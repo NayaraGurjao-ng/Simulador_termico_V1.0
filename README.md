@@ -1,0 +1,1 @@
+# Simulador_termico_V1.0
